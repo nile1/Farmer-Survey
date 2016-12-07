@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Crop Survey</string>
+    <string name="Crop">Crop</string>
+    <string name="Inout">Indoor/Outdoor</string>
+
+    <string-array name="CROP">
+        <item>Potato with many eyes</item>
+        <item>Tomatina, the festival of orb</item>
+        <item>onion which can bring tears</item>
+        <item>muli, Reason of global warming</item>
+    </string-array>
+
+
+
+</resources>
